@@ -1,4 +1,4 @@
-# pyqt
+# Pyqt GUI Examples
 basic python GUI examples which include:
 
 * Box layout
